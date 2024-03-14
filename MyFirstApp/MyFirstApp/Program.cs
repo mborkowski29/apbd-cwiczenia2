@@ -9,9 +9,9 @@ Console.WriteLine("max wartosc");
 static double GetAverage(int[] numbers)
 {
     int sum = 0;
-    foreach (var number in numbers)
+    foreach (var number1 in numbers)
     {
-        sum += number;
+        sum += number1;
         
     }
 
