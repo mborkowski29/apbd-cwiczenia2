@@ -8,6 +8,7 @@ Console.WriteLine("max wartosc");
 
 static double GetAverage(int[] numbers)
 {
+
     int sum1 = 0;
     foreach (var number in numbers)
     {
